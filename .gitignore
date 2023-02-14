@@ -1,0 +1,9 @@
+# dotfiles
+.venv
+.vscode
+.mypy_cache
+.pylintrc
+
+# data
+codenames
+data
